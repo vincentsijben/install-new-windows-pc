@@ -25,6 +25,6 @@ I had to go to BIOS - Boot - Secure mode and set the "OS Type" from "Windows UEF
 
 ## Activate Windows and install/activate Office
 If you don't have a Windows or Office product key:
-* Run Powershell in admin mode (right click windows startmenu, choose Terminal Admin or Powershell Admin) and copy paste: irm https://get.activated.win | iex (also see [Linus Tech Tips](https://youtu.be/yJkRd9py5mA?si=MqnCXkSb10iWScy3&t=471)).
+* Run Powershell in admin mode (right click windows startmenu, choose Terminal Admin or Powershell Admin) and copy paste: `irm https://get.activated.win | iex` (also see [Linus Tech Tips](https://youtu.be/yJkRd9py5mA?si=MqnCXkSb10iWScy3&t=471)).
 * Press 1 to activate Windows
 * Press 2 and then 3 and download Office through "Office C2R Installers ❤️, search for "dutch" and install Link ❤️.
