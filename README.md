@@ -20,11 +20,11 @@ I had to go to BIOS - Boot - Secure mode and set the "OS Type" from "Windows UEF
 
 ## Installation finished
 * Install official Game-Ready NVIDIA drivers from nvidia's website.
-* On the desktop, open the shortcut UWScript and install UniGETUI to install your software.
+* Optional: On the desktop, open the shortcut UWScript and install UniGETUI to install your software.
 * Run windows update, download and install updates, restart.
 
 ## Activate Windows and install/activate Office
 If you don't have a Windows or Office product key:
-* Run Powershell in admin mode (right click windows startmenu, choose Terminal Admin or Powershell Admin) and copy paste: irm https://get.activated.win | iex
+* Run Powershell in admin mode (right click windows startmenu, choose Terminal Admin or Powershell Admin) and copy paste: irm https://get.activated.win | iex (also see [Linus Tech Tips](https://youtu.be/yJkRd9py5mA?si=MqnCXkSb10iWScy3&t=471)).
 * Press 1 to activate Windows
 * Press 2 and then 3 and download Office through "Office C2R Installers ❤️, search for "dutch" and install Link ❤️.
