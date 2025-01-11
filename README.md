@@ -27,4 +27,13 @@ I had to go to BIOS - Boot - Secure mode and set the "OS Type" from "Windows UEF
 If you don't have a Windows or Office product key:
 * Run Powershell in admin mode (right click windows startmenu, choose Terminal Admin or Powershell Admin) and copy paste: `irm https://get.activated.win | iex` (also see [Linus Tech Tips](https://youtu.be/yJkRd9py5mA?si=MqnCXkSb10iWScy3&t=471)).
 * Press 1 to activate Windows
-* Press 2 and then 3 and download Office through "Office C2R Installers ❤️, search for "dutch" and install Link ❤️.
+* Press 2 and then 3 and download Office through "Office C2R Installers ❤️, search for "dutch" and install through Link ❤️.
+* When Office is done installing, go back to Powershell and press 1 to activate it.
+
+## Debloat Windows
+Optional
+
+* Open Powershell in admin mode and run `irm https://christitus.com/win | iex`.
+* Click on tab "Tweaks" and click "Standard".
+* Also mark "Change Windows Terminal default: Powershell 5 -> Powershell 7".
+* Click "Run Tweaks". In the powershell windows you can see the progress.
