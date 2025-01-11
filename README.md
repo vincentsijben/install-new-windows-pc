@@ -37,3 +37,4 @@ Optional
 * Click on tab "Tweaks" and click "Standard".
 * Also mark "Change Windows Terminal default: Powershell 5 -> Powershell 7".
 * Click "Run Tweaks". In the powershell windows you can see the progress.
+* Click on the "Install" tab and check Chrome and Steam. Click on "Install Selected" on top.
