@@ -4,7 +4,7 @@ Following [this YouTube tutorial](https://www.youtube.com/watch?v=LMN17-i10Ng).
 
 ## Backup your stuff
 * If you have a Windows Product Key, make a note of it. The install asks for it later on.
-* Create an export file for your Steam deck and BEACN software
+* Create an export file for your Steam deck, BEACN software and OBS scenes/settings.
 
 ## Installation
 * Follow instructions https://www.youtube.com/watch?v=LMN17-i10Ng&t=120s (2:00 till 5:51)
